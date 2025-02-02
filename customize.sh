@@ -1,36 +1,35 @@
 #!/system/bin/sh
 
-#
-# Systemless Hosts by the
-# open source loving GL-DP and all contributors;
-# An efficient ad blocker, with no user interface
-#
+SKIPUNZIP=1
+ASH_STANDALONE=1
 
-# Check root implementation
-ui_print "- Checking root implementation"
-if [ "$BOOTMODE" ] && [ "$KSU" ]; then
-    ui_print "- Installing from KernelSU app"
-    ui_print "   KernelSU version: $KSU_KERNEL_VER_CODE (kernel) + $KSU_VER_CODE (ksud)"
-    if [ "$(which magisk)" ]; then
-        ui_print "   Multiple root implementation is NOT supported"
-        abort    "   Aborting!"
-    fi
-elif [ "$BOOTMODE" ] && [ "$MAGISK_VER_CODE" ]; then
-    ui_print "- Installing from Magisk app"
+# Direktori tujuan
+file_path="/system/etc"
+
+# Periksa apakah instalasi dilakukan melalui Magisk
+if $BOOTMODE; then
+  ui_print "- Installing bugplaner from Magisk app"
 else
-    ui_print "   Installation from recovery is NOT supported"
-    ui_print "   Please install from Magisk / KernelSU app"
-    abort    "   Aborting!"
+  ui_print "*********************************************************"
+  ui_print "! Install from recovery is NOT supported"
+  ui_print "! Please install bugplaner from Magisk app"
+  abort "*********************************************************"
 fi
 
-# Patch default file
-PATH=/system/etc
-ui_print "- Patching file BugPlaner"
-mkdir -p $MODPATH$PATH
-mv -f $MODPATH/bugplaner.sh $MODPATH$PATH/bugplaner.sh
-mv -f $MODPATH/bugplaner-log.txt $MODPATH$PATH/bugplaner-log.txt
+# Pindahkan file ke /system/etc
+ui_print "- Moving files to /system/etc"
+mkdir -p ${MODPATH}${file_path}
+mv -f ${MODPATH}/bugplaner.sh ${MODPATH}${file_path}/bugplaner.sh
+mv -f ${MODPATH}/bugplaner-log.txt ${MODPATH}${file_path}/bugplaner-log.txt
 
-# Clean up
-rm -rf $MODPATH/bugplaner.sh
-rm -rf $MODPATH/bugplaner-log.txt
-rm -rf $MODPATH/LICENSE
+# Set permissions
+ui_print "- Setting permissions"
+set_perm ${MODPATH}${file_path}/bugplaner.sh 0 0 0755
+set_perm ${MODPATH}${file_path}/bugplaner-log.txt 0 0 0644
+
+# Bersihkan file yang tidak diperlukan
+ui_print "- Cleaning up"
+rm -rf ${MODPATH}/bugplaner.sh
+rm -rf ${MODPATH}/bugplaner-log.txt
+
+ui_print "- Installation is complete, reboot your device"
