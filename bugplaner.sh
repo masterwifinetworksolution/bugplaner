@@ -9,7 +9,7 @@ POST_AIRPLANE_MODE_DELAY=10 # Jeda setelah mematikan mode pesawat
 CONNECTION_CHECK_RETRIES=3 # Jumlah percobaan pengecekan koneksi setelah mode pesawat
 
 MODPATH=${0%/*}
-LOGFILE="/data/adb/modules/bugplaner/system/etc/magisk-log.txt"
+LOGFILE="/data/adb/modules/bugplaner/system/etc/bugplaner-log.txt"
 
 failed_count=0
 

@@ -1,6 +1,6 @@
 {
     "version": "1",
     "versionCode": 1,
-    "zipUrl": "https://github.com/masterwifinetworksolution/bugplaner/releases/download/1/bigplaner.zip",
-    "changelog": "https://raw.githubusercontent.com/masterwifinetworksolution/bugplaner/main/changelog.md"
+    "zipUrl": "https://github.com/masterwifinetworksolution/bugplaner/releases/download/1/bugplaner.zip",
+    "changelog": "https://github.com/masterwifinetworksolution/bugplaner/commits/1"
 }

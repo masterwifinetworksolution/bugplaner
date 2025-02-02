@@ -9,26 +9,28 @@
 # Check root implementation
 ui_print "- Checking root implementation"
 if [ "$BOOTMODE" ] && [ "$KSU" ]; then
-ui_print "- Installing from KernelSU app"
-ui_print "   KernelSU version: $KSU_KERNEL_VER_CODE (kernel) + $KSU_VER_CODE (ksud)"
-if [ "$(which magisk)" ]; then
-ui_print "   Multiple root implementation is NOT supported"
-abort    "   Aborting!"
-fi
+    ui_print "- Installing from KernelSU app"
+    ui_print "   KernelSU version: $KSU_KERNEL_VER_CODE (kernel) + $KSU_VER_CODE (ksud)"
+    if [ "$(which magisk)" ]; then
+        ui_print "   Multiple root implementation is NOT supported"
+        abort    "   Aborting!"
+    fi
 elif [ "$BOOTMODE" ] && [ "$MAGISK_VER_CODE" ]; then
-ui_print "- Installing from Magisk app"
+    ui_print "- Installing from Magisk app"
 else
-ui_print "   Installation from recovery is NOT supported"
-ui_print "   Please install from Magisk / KernelSU app"
-abort    "   Aborting!"
+    ui_print "   Installation from recovery is NOT supported"
+    ui_print "   Please install from Magisk / KernelSU app"
+    abort    "   Aborting!"
 fi
 
 # Patch default file
 PATH=/system/etc
 ui_print "- Patching file BugPlaner"
 mkdir -p $MODPATH$PATH
-mv -f $MODPATH/bugplaner $MODPATH$PATH
+mv -f $MODPATH/bugplaner.sh $MODPATH$PATH/bugplaner.sh
+mv -f $MODPATH/bugplaner-log.txt $MODPATH$PATH/bugplaner-log.txt
 
 # Clean up
-rm -rf $MODPATH/bugplaner
+rm -rf $MODPATH/bugplaner.sh
+rm -rf $MODPATH/bugplaner-log.txt
 rm -rf $MODPATH/LICENSE
