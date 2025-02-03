@@ -1,7 +1,7 @@
 id=bugplaner
 name=BugPlaner Master
-version=1
+version=1.0
 versionCode=1
 author=Master Wifi Network Solution
-description=Script untuk mengaktifkan/menonaktifkan mode pesawat otomatis berdasarkan status koneksi.  Fitur: Mendeteksi koneksi internet dan mengaktifkan mode pesawat jika koneksi terputus.
+description=Modul Magisk untuk mengelola koneksi internet secara otomatis. Fitur: Deteksi koneksi internet, aktifkan mode pesawat jika koneksi terputus, dan pertahankan tethering/hotspot selama proses.
 updateJson=https://raw.githubusercontent.com/masterwifinetworksolution/bugplaner/main/module.json

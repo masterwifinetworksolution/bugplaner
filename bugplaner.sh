@@ -1,12 +1,16 @@
 #!/system/bin/sh
 
+# Pastikan skrip dijalankan dengan hak akses root
+if [ "$(whoami)" != "root" ]; then
+  echo "Skrip ini harus dijalankan dengan hak akses root."
+  exit 1
+fi
+
 # Konfigurasi
 HOSTS=("quiz.int.vidio.com" "google.com" "8.8.8.8") # Daftar host untuk ping
-TEST_URLS=("http://quiz.int.vidio.com" "https://www.google.com") # Daftar URL untuk tes koneksi
-DURATION=4 # Durasi mode pesawat dalam detik
-RETRY_LIMIT=4 # Jumlah percobaan sebelum mengaktifkan mode pesawat
+RETRY_LIMIT=2 # Jumlah percobaan sebelum mengaktifkan mode pesawat
+AIRPLANE_MODE_DURATION=5 # Durasi mode pesawat dalam detik
 POST_AIRPLANE_MODE_DELAY=10 # Jeda setelah mematikan mode pesawat
-CONNECTION_CHECK_RETRIES=3 # Jumlah percobaan pengecekan koneksi setelah mode pesawat
 
 MODPATH=${0%/*}
 LOGFILE="/data/adb/modules/bugplaner/system/etc/bugplaner-log.txt"
@@ -18,55 +22,39 @@ log() {
   echo "$(date '+%Y-%m-%d %H:%M:%S') - $1" >> "$LOGFILE"
 }
 
-# Fungsi untuk mengaktifkan tethering hotspot dan USB menggunakan pengaturan sistem dan iptables
-enable_tethering() {
+# Fungsi untuk mengaktifkan tethering hotspot dan USB
+aktifkan_tethering() {
   log "Mengaktifkan tethering..."
 
-  # Aktifkan Wi-Fi untuk hotspot
-  svc wifi enable
-
-  # Aktifkan tethering USB
-  echo 'enable' > /sys/class/android_usb/android0/state
-  echo 'rndis' > /sys/class/android_usb/android0/functions
+  # Aktifkan tethering USB menggunakan perintah alternatif
+  if svc usb setFunctions rndis && svc usb enable; then
+    log "Tethering USB diaktifkan menggunakan perintah svc."
+  else
+    log "Gagal mengaktifkan tethering USB menggunakan perintah svc."
+  fi
 
   # Aktifkan tethering hotspot
-  echo '1' > /proc/net/ipv4/ip_forward
+  if [ -f /proc/sys/net/ipv4/ip_forward ]; then
+    echo '1' > /proc/sys/net/ipv4/ip_forward
+    log "IP forwarding diaktifkan."
+  else
+    log "File /proc/sys/net/ipv4/ip_forward tidak ditemukan. IP forwarding tidak dapat diaktifkan."
+  fi
 
   # Konfigurasi iptables untuk tethering
   iptables -t nat -A POSTROUTING -j MASQUERADE
-  iptables -t mangle -A FORWARD -p tcp --tcp-flags SYN -j TCPMSS --set-mss 1441
+  iptables -t mangle -A FORWARD -p tcp --tcp-flags SYN,RST,ACK SYN -j TCPMSS --set-mss 1441
+  log "IPTables dikonfigurasi."
 
   log "Tethering diaktifkan."
 }
 
-# Fungsi untuk menonaktifkan tethering
-disable_tethering() {
-  log "Menonaktifkan tethering..."
-
-  # Menonaktifkan tethering USB
-  echo 'disable' > /sys/class/android_usb/android0/state
-
-  # Menonaktifkan tethering hotspot
-  iptables -t nat -F POSTROUTING
-  iptables -t mangle -F FORWARD
-
-  log "Tethering dinonaktifkan."
-}
-
 # Fungsi untuk mengecek koneksi
-check_connection() {
-  for host in "${HOSTS[@]}"; do
+cek_koneksi() {
+  for host in "${HOSTS[@]}"]; do
     if ping -c 1 "$host" > /dev/null; then
       log "Host $host dapat dijangkau."
-      for url in "${TEST_URLS[@]}"; do
-        if curl --silent --head --fail --connect-timeout 5 "$url" > /dev/null; then
-          log "Koneksi ke $url aktif."
-          return 0 # Koneksi aktif
-        else
-          log "Koneksi ke $url gagal."
-        fi
-      done
-      return 0 # Koneksi aktif (ping berhasil, tapi mungkin ada masalah dengan URL tertentu)
+      return 0 # Koneksi aktif
     else
       log "Host $host tidak dapat dijangkau."
     fi
@@ -75,46 +63,38 @@ check_connection() {
 }
 
 # Memastikan tethering aktif saat skrip pertama kali dijalankan
-enable_tethering
+aktifkan_tethering
+
+# Fungsi untuk mengelola mode pesawat
+kelola_mode_pesawat() {
+  log "Koneksi gagal sebanyak $RETRY_LIMIT kali, mengaktifkan mode pesawat."
+  settings put global airplane_mode_on 1
+  am broadcast -a android.intent.action.AIRPLANE_MODE --ez state true
+  sleep $AIRPLANE_MODE_DURATION
+
+  log "Mematikan mode pesawat."
+  settings put global airplane_mode_on 0
+  am broadcast -a android.intent.action.AIRPLANE_MODE --ez state false
+
+  log "Menunggu $POST_AIRPLANE_MODE_DELAY detik agar data aktif."
+  sleep $POST_AIRPLANE_MODE_DELAY
+
+  # Reset counter setelah mode pesawat
+  failed_count=0
+
+  # Pastikan tethering aktif setelah mode pesawat dimatikan
+  aktifkan_tethering
+}
 
 while true; do
-  if check_connection; then
+  if cek_koneksi; then
     failed_count=0 # Reset counter jika koneksi data aktif
   else
     failed_count=$((failed_count+1))
   fi
 
   if [ $failed_count -ge $RETRY_LIMIT ]; then
-    log "Koneksi gagal sebanyak $RETRY_LIMIT kali, mengaktifkan mode pesawat."
-    settings put global airplane_mode_on 1
-    am broadcast -a android.intent.action.AIRPLANE_MODE --ez state true
-    sleep $DURATION
-
-    log "Mematikan mode pesawat."
-    settings put global airplane_mode_on 0
-    am broadcast -a android.intent.action.AIRPLANE_MODE --ez state false
-
-    log "Menunggu $POST_AIRPLANE_MODE_DELAY detik agar data aktif."
-    sleep $POST_AIRPLANE_MODE_DELAY
-
-    # Pengecekan koneksi setelah mode pesawat
-    connection_check_retries=$CONNECTION_CHECK_RETRIES
-    while [ $connection_check_retries -gt 0 ]; do
-      if check_connection; then
-        break
-      else
-        log "Menunggu koneksi aktif ($connection_check_retries)..."
-        sleep 5
-        connection_check_retries=$((connection_check_retries-1))
-      fi
-    done
-
-    if check_connection; then
-      enable_tethering # Aktifkan tethering setelah mode pesawat dan koneksi aktif
-      failed_count=0 # Reset counter setelah mode pesawat
-    else
-      log "Koneksi masih gagal setelah mode pesawat. Memeriksa kembali nanti."
-    fi
+    kelola_mode_pesawat
   fi
 
   sleep 1 # Tunggu 1 detik sebelum mencoba ping lagi
