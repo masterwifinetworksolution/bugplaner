@@ -7,10 +7,10 @@ if [ "$(whoami)" != "root" ]; then
 fi
 
 # Konfigurasi
-HOSTS=("quiz.int.vidio.com" "google.com" "8.8.8.8") # Daftar host untuk ping
-RETRY_LIMIT=2 # Jumlah percobaan sebelum mengaktifkan mode pesawat
+HOSTS=("quiz.int.vidio.com") # Daftar host untuk ping
+RETRY_LIMIT=5 # Jumlah percobaan sebelum mengaktifkan mode pesawat
 AIRPLANE_MODE_DURATION=5 # Durasi mode pesawat dalam detik
-POST_AIRPLANE_MODE_DELAY=10 # Jeda setelah mematikan mode pesawat
+POST_AIRPLANE_MODE_DELAY=15 # Jeda setelah mematikan mode pesawat
 
 MODPATH=${0%/*}
 LOGFILE="/data/adb/modules/bugplaner/system/etc/bugplaner-log.txt"
@@ -27,7 +27,7 @@ aktifkan_tethering() {
   log "Mengaktifkan tethering..."
 
   # Aktifkan tethering USB menggunakan perintah alternatif
-  if svc usb setFunctions rndis && svc usb enable; then
+  if svc usb getFunctions rndis enable; then
     log "Tethering USB diaktifkan menggunakan perintah svc."
   else
     log "Gagal mengaktifkan tethering USB menggunakan perintah svc."

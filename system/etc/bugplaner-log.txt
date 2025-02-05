@@ -1,0 +1,1989 @@
+2025-02-05 06:30:19 - Mengaktifkan tethering...
+2025-02-05 06:30:20 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 06:30:20 - IP forwarding diaktifkan.
+2025-02-05 06:30:20 - IPTables dikonfigurasi.
+2025-02-05 06:30:20 - Tethering diaktifkan.
+2025-02-05 06:30:21 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:30:22 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:30:23 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:30:24 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:30:25 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:30:25 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 06:30:30 - Mematikan mode pesawat.
+2025-02-05 06:30:31 - Menunggu 60 detik agar data aktif.
+2025-02-05 06:31:31 - Mengaktifkan tethering...
+2025-02-05 06:31:32 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 06:31:32 - IP forwarding diaktifkan.
+2025-02-05 06:31:32 - IPTables dikonfigurasi.
+2025-02-05 06:31:32 - Tethering diaktifkan.
+2025-02-05 06:31:33 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:31:34 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:31:35 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:31:36 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:31:37 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:31:37 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 06:31:43 - Mematikan mode pesawat.
+2025-02-05 06:31:43 - Menunggu 60 detik agar data aktif.
+2025-02-05 06:32:43 - Mengaktifkan tethering...
+2025-02-05 06:32:44 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 06:32:44 - IP forwarding diaktifkan.
+2025-02-05 06:32:44 - IPTables dikonfigurasi.
+2025-02-05 06:32:44 - Tethering diaktifkan.
+2025-02-05 06:32:45 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:32:46 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:32:47 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:32:49 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:32:50 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:32:50 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 06:32:55 - Mematikan mode pesawat.
+2025-02-05 06:32:55 - Menunggu 60 detik agar data aktif.
+2025-02-05 06:33:55 - Mengaktifkan tethering...
+2025-02-05 06:33:56 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 06:33:56 - IP forwarding diaktifkan.
+2025-02-05 06:33:56 - IPTables dikonfigurasi.
+2025-02-05 06:33:56 - Tethering diaktifkan.
+2025-02-05 06:33:58 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:33:59 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:34:00 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:34:01 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:34:02 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:34:02 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 06:34:07 - Mematikan mode pesawat.
+2025-02-05 06:34:07 - Menunggu 60 detik agar data aktif.
+2025-02-05 06:35:07 - Mengaktifkan tethering...
+2025-02-05 06:35:08 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 06:35:08 - IP forwarding diaktifkan.
+2025-02-05 06:35:08 - IPTables dikonfigurasi.
+2025-02-05 06:35:08 - Tethering diaktifkan.
+2025-02-05 06:35:10 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:35:11 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:35:12 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:35:13 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:35:14 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:35:14 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 06:35:19 - Mematikan mode pesawat.
+2025-02-05 06:35:20 - Menunggu 60 detik agar data aktif.
+2025-02-05 06:36:20 - Mengaktifkan tethering...
+2025-02-05 06:36:21 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 06:36:21 - IP forwarding diaktifkan.
+2025-02-05 06:36:21 - IPTables dikonfigurasi.
+2025-02-05 06:36:21 - Tethering diaktifkan.
+2025-02-05 06:36:22 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:36:23 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:36:24 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:36:25 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:36:26 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:36:26 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 06:36:32 - Mematikan mode pesawat.
+2025-02-05 06:36:32 - Menunggu 60 detik agar data aktif.
+2025-02-05 06:37:32 - Mengaktifkan tethering...
+2025-02-05 06:37:33 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 06:37:33 - IP forwarding diaktifkan.
+2025-02-05 06:37:33 - IPTables dikonfigurasi.
+2025-02-05 06:37:33 - Tethering diaktifkan.
+2025-02-05 06:37:34 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:37:35 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:37:36 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:37:37 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:37:38 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:37:38 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 06:37:44 - Mematikan mode pesawat.
+2025-02-05 06:37:44 - Menunggu 60 detik agar data aktif.
+2025-02-05 06:38:44 - Mengaktifkan tethering...
+2025-02-05 06:38:45 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 06:38:45 - IP forwarding diaktifkan.
+2025-02-05 06:38:45 - IPTables dikonfigurasi.
+2025-02-05 06:38:45 - Tethering diaktifkan.
+2025-02-05 06:38:46 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:38:47 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:38:48 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:38:49 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:38:50 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:38:51 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 06:38:56 - Mematikan mode pesawat.
+2025-02-05 06:38:56 - Menunggu 60 detik agar data aktif.
+2025-02-05 06:39:56 - Mengaktifkan tethering...
+2025-02-05 06:39:57 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 06:39:57 - IP forwarding diaktifkan.
+2025-02-05 06:39:57 - IPTables dikonfigurasi.
+2025-02-05 06:39:57 - Tethering diaktifkan.
+2025-02-05 06:39:58 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:40:00 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:40:01 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:40:02 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:40:03 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:40:03 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 06:40:08 - Mematikan mode pesawat.
+2025-02-05 06:40:08 - Menunggu 60 detik agar data aktif.
+2025-02-05 06:41:08 - Mengaktifkan tethering...
+2025-02-05 06:41:09 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 06:41:09 - IP forwarding diaktifkan.
+2025-02-05 06:41:09 - IPTables dikonfigurasi.
+2025-02-05 06:41:10 - Tethering diaktifkan.
+2025-02-05 06:41:11 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:41:12 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:41:13 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:41:14 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:41:15 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:41:15 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 06:41:20 - Mematikan mode pesawat.
+2025-02-05 06:41:21 - Menunggu 60 detik agar data aktif.
+2025-02-05 06:42:21 - Mengaktifkan tethering...
+2025-02-05 06:42:22 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 06:42:22 - IP forwarding diaktifkan.
+2025-02-05 06:42:22 - IPTables dikonfigurasi.
+2025-02-05 06:42:22 - Tethering diaktifkan.
+2025-02-05 06:42:23 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:42:24 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:42:25 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:42:26 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:42:27 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:42:27 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 06:42:32 - Mematikan mode pesawat.
+2025-02-05 06:42:33 - Menunggu 60 detik agar data aktif.
+2025-02-05 06:43:33 - Mengaktifkan tethering...
+2025-02-05 06:43:34 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 06:43:34 - IP forwarding diaktifkan.
+2025-02-05 06:43:34 - IPTables dikonfigurasi.
+2025-02-05 06:43:34 - Tethering diaktifkan.
+2025-02-05 06:43:35 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:43:36 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:43:37 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:43:38 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:43:39 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:43:39 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 06:43:45 - Mematikan mode pesawat.
+2025-02-05 06:43:46 - Menunggu 60 detik agar data aktif.
+2025-02-05 06:44:46 - Mengaktifkan tethering...
+2025-02-05 06:44:47 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 06:44:47 - IP forwarding diaktifkan.
+2025-02-05 06:44:47 - IPTables dikonfigurasi.
+2025-02-05 06:44:47 - Tethering diaktifkan.
+2025-02-05 06:44:48 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:44:49 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:44:50 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:44:51 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:44:52 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:44:52 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 06:44:58 - Mematikan mode pesawat.
+2025-02-05 06:44:58 - Menunggu 60 detik agar data aktif.
+2025-02-05 06:45:58 - Mengaktifkan tethering...
+2025-02-05 06:45:59 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 06:45:59 - IP forwarding diaktifkan.
+2025-02-05 06:45:59 - IPTables dikonfigurasi.
+2025-02-05 06:45:59 - Tethering diaktifkan.
+2025-02-05 06:46:00 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:46:01 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:46:02 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:46:03 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:46:05 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:46:05 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 06:46:10 - Mematikan mode pesawat.
+2025-02-05 06:46:10 - Menunggu 60 detik agar data aktif.
+2025-02-05 06:47:10 - Mengaktifkan tethering...
+2025-02-05 06:47:11 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 06:47:11 - IP forwarding diaktifkan.
+2025-02-05 06:47:12 - IPTables dikonfigurasi.
+2025-02-05 06:47:12 - Tethering diaktifkan.
+2025-02-05 06:47:13 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:47:14 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:47:15 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:47:16 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:47:17 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:47:17 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 06:47:22 - Mematikan mode pesawat.
+2025-02-05 06:47:23 - Menunggu 60 detik agar data aktif.
+2025-02-05 06:48:23 - Mengaktifkan tethering...
+2025-02-05 06:48:24 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 06:48:24 - IP forwarding diaktifkan.
+2025-02-05 06:48:24 - IPTables dikonfigurasi.
+2025-02-05 06:48:24 - Tethering diaktifkan.
+2025-02-05 06:48:25 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:48:26 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:48:27 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:48:28 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:48:29 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:48:29 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 06:48:35 - Mematikan mode pesawat.
+2025-02-05 06:48:35 - Menunggu 60 detik agar data aktif.
+2025-02-05 06:49:35 - Mengaktifkan tethering...
+2025-02-05 06:49:36 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 06:49:36 - IP forwarding diaktifkan.
+2025-02-05 06:49:36 - IPTables dikonfigurasi.
+2025-02-05 06:49:36 - Tethering diaktifkan.
+2025-02-05 06:49:37 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:49:38 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:49:39 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:49:40 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:49:41 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:49:41 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 06:49:47 - Mematikan mode pesawat.
+2025-02-05 06:49:47 - Menunggu 60 detik agar data aktif.
+2025-02-05 06:50:47 - Mengaktifkan tethering...
+2025-02-05 06:50:48 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 06:50:48 - IP forwarding diaktifkan.
+2025-02-05 06:50:48 - IPTables dikonfigurasi.
+2025-02-05 06:50:48 - Tethering diaktifkan.
+2025-02-05 06:50:50 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:50:51 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:50:52 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:50:53 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:50:54 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:50:54 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 06:50:59 - Mematikan mode pesawat.
+2025-02-05 06:50:59 - Menunggu 60 detik agar data aktif.
+2025-02-05 06:52:00 - Mengaktifkan tethering...
+2025-02-05 06:52:00 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 06:52:00 - IP forwarding diaktifkan.
+2025-02-05 06:52:01 - IPTables dikonfigurasi.
+2025-02-05 06:52:01 - Tethering diaktifkan.
+2025-02-05 06:52:02 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:52:03 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:52:04 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:52:05 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:52:06 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:52:06 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 06:52:11 - Mematikan mode pesawat.
+2025-02-05 06:52:12 - Menunggu 60 detik agar data aktif.
+2025-02-05 06:53:12 - Mengaktifkan tethering...
+2025-02-05 06:53:13 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 06:53:13 - IP forwarding diaktifkan.
+2025-02-05 06:53:13 - IPTables dikonfigurasi.
+2025-02-05 06:53:13 - Tethering diaktifkan.
+2025-02-05 06:53:14 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:53:15 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:53:16 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:53:17 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:53:18 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:53:18 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 06:53:23 - Mematikan mode pesawat.
+2025-02-05 06:53:24 - Menunggu 60 detik agar data aktif.
+2025-02-05 06:54:24 - Mengaktifkan tethering...
+2025-02-05 06:54:25 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 06:54:25 - IP forwarding diaktifkan.
+2025-02-05 06:54:25 - IPTables dikonfigurasi.
+2025-02-05 06:54:25 - Tethering diaktifkan.
+2025-02-05 06:54:26 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:54:27 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:54:28 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:54:29 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:54:30 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:54:30 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 06:54:35 - Mematikan mode pesawat.
+2025-02-05 06:54:36 - Menunggu 60 detik agar data aktif.
+2025-02-05 06:55:36 - Mengaktifkan tethering...
+2025-02-05 06:55:37 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 06:55:37 - IP forwarding diaktifkan.
+2025-02-05 06:55:37 - IPTables dikonfigurasi.
+2025-02-05 06:55:37 - Tethering diaktifkan.
+2025-02-05 06:55:38 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:55:39 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:55:40 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:55:41 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:55:42 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:55:42 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 06:55:48 - Mematikan mode pesawat.
+2025-02-05 06:55:48 - Menunggu 60 detik agar data aktif.
+2025-02-05 06:56:48 - Mengaktifkan tethering...
+2025-02-05 06:56:49 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 06:56:49 - IP forwarding diaktifkan.
+2025-02-05 06:56:49 - IPTables dikonfigurasi.
+2025-02-05 06:56:49 - Tethering diaktifkan.
+2025-02-05 06:56:50 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:56:51 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:56:52 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:56:53 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:56:54 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:56:54 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 06:57:00 - Mematikan mode pesawat.
+2025-02-05 06:57:00 - Menunggu 60 detik agar data aktif.
+2025-02-05 06:58:00 - Mengaktifkan tethering...
+2025-02-05 06:58:01 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 06:58:01 - IP forwarding diaktifkan.
+2025-02-05 06:58:01 - IPTables dikonfigurasi.
+2025-02-05 06:58:01 - Tethering diaktifkan.
+2025-02-05 06:58:02 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:58:03 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:58:04 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:58:08 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:58:09 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 06:58:10 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 06:58:27 - Mematikan mode pesawat.
+2025-02-05 06:58:27 - Menunggu 60 detik agar data aktif.
+2025-02-05 07:01:30 - Mengaktifkan tethering...
+2025-02-05 07:01:34 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 07:01:34 - IP forwarding diaktifkan.
+2025-02-05 07:01:34 - IPTables dikonfigurasi.
+2025-02-05 07:01:34 - Tethering diaktifkan.
+2025-02-05 07:01:35 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:01:36 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:01:37 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:01:38 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:01:40 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:01:40 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 07:01:45 - Mematikan mode pesawat.
+2025-02-05 07:01:45 - Menunggu 60 detik agar data aktif.
+2025-02-05 07:04:45 - Mengaktifkan tethering...
+2025-02-05 07:04:49 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 07:04:49 - IP forwarding diaktifkan.
+2025-02-05 07:04:49 - IPTables dikonfigurasi.
+2025-02-05 07:04:49 - Tethering diaktifkan.
+2025-02-05 07:04:50 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:05:02 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:05:12 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:05:13 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:05:17 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:05:17 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 07:05:31 - Mematikan mode pesawat.
+2025-02-05 07:05:31 - Menunggu 60 detik agar data aktif.
+2025-02-05 07:09:23 - Mengaktifkan tethering...
+2025-02-05 07:09:37 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 07:09:37 - IP forwarding diaktifkan.
+2025-02-05 07:09:37 - IPTables dikonfigurasi.
+2025-02-05 07:09:37 - Tethering diaktifkan.
+2025-02-05 07:09:42 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:10:02 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:10:03 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:10:07 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:10:23 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:10:23 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 07:10:28 - Mematikan mode pesawat.
+2025-02-05 07:10:28 - Menunggu 60 detik agar data aktif.
+2025-02-05 07:13:10 - Mengaktifkan tethering...
+2025-02-05 07:13:11 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 07:13:11 - IP forwarding diaktifkan.
+2025-02-05 07:13:11 - IPTables dikonfigurasi.
+2025-02-05 07:13:11 - Tethering diaktifkan.
+2025-02-05 07:13:12 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:13:29 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:13:30 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:13:31 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:13:32 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:13:32 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 07:13:37 - Mematikan mode pesawat.
+2025-02-05 07:13:37 - Menunggu 60 detik agar data aktif.
+2025-02-05 07:18:07 - Mengaktifkan tethering...
+2025-02-05 07:18:13 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 07:18:13 - IP forwarding diaktifkan.
+2025-02-05 07:18:23 - IPTables dikonfigurasi.
+2025-02-05 07:18:23 - Tethering diaktifkan.
+2025-02-05 07:18:24 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:18:25 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:18:42 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:18:43 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:18:44 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:18:44 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 07:18:50 - Mematikan mode pesawat.
+2025-02-05 07:18:50 - Menunggu 60 detik agar data aktif.
+2025-02-05 07:21:16 - Mengaktifkan tethering...
+2025-02-05 07:21:17 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 07:21:17 - IP forwarding diaktifkan.
+2025-02-05 07:21:17 - IPTables dikonfigurasi.
+2025-02-05 07:21:17 - Tethering diaktifkan.
+2025-02-05 07:21:18 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:21:38 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:21:39 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:21:52 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:21:53 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:21:53 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 07:21:58 - Mematikan mode pesawat.
+2025-02-05 07:21:58 - Menunggu 60 detik agar data aktif.
+2025-02-05 07:26:24 - Mengaktifkan tethering...
+2025-02-05 07:26:26 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 07:26:26 - IP forwarding diaktifkan.
+2025-02-05 07:26:26 - IPTables dikonfigurasi.
+2025-02-05 07:26:26 - Tethering diaktifkan.
+2025-02-05 07:26:28 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:26:29 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:26:30 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:26:31 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:26:32 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:26:32 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 07:26:37 - Mematikan mode pesawat.
+2025-02-05 07:26:37 - Menunggu 60 detik agar data aktif.
+2025-02-05 07:29:33 - Mengaktifkan tethering...
+2025-02-05 07:29:33 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 07:29:33 - IP forwarding diaktifkan.
+2025-02-05 07:29:33 - IPTables dikonfigurasi.
+2025-02-05 07:29:33 - Tethering diaktifkan.
+2025-02-05 07:29:35 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:29:43 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:29:53 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:29:54 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:29:58 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:29:58 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 07:30:03 - Mematikan mode pesawat.
+2025-02-05 07:30:04 - Menunggu 60 detik agar data aktif.
+2025-02-05 07:35:27 - Mengaktifkan tethering...
+2025-02-05 07:35:46 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 07:35:46 - IP forwarding diaktifkan.
+2025-02-05 07:35:46 - IPTables dikonfigurasi.
+2025-02-05 07:35:46 - Tethering diaktifkan.
+2025-02-05 07:35:47 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:35:48 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:35:56 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:36:01 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:36:07 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:36:07 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 07:36:12 - Mematikan mode pesawat.
+2025-02-05 07:36:13 - Menunggu 60 detik agar data aktif.
+2025-02-05 07:40:18 - Mengaktifkan tethering...
+2025-02-05 07:40:19 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 07:40:19 - IP forwarding diaktifkan.
+2025-02-05 07:40:19 - IPTables dikonfigurasi.
+2025-02-05 07:40:19 - Tethering diaktifkan.
+2025-02-05 07:40:34 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:40:35 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:40:36 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:40:37 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:40:38 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:40:38 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 07:40:44 - Mematikan mode pesawat.
+2025-02-05 07:40:44 - Menunggu 60 detik agar data aktif.
+2025-02-05 07:43:01 - Mengaktifkan tethering...
+2025-02-05 07:43:02 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 07:43:02 - IP forwarding diaktifkan.
+2025-02-05 07:43:02 - IPTables dikonfigurasi.
+2025-02-05 07:43:02 - Tethering diaktifkan.
+2025-02-05 07:43:03 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:43:04 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:43:16 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:43:17 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:43:18 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:43:18 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 07:43:23 - Mematikan mode pesawat.
+2025-02-05 07:43:23 - Menunggu 60 detik agar data aktif.
+2025-02-05 07:46:33 - Mengaktifkan tethering...
+2025-02-05 07:46:34 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 07:46:34 - IP forwarding diaktifkan.
+2025-02-05 07:46:34 - IPTables dikonfigurasi.
+2025-02-05 07:46:34 - Tethering diaktifkan.
+2025-02-05 07:46:35 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:46:36 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:46:52 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:46:53 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:46:54 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:46:54 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 07:47:00 - Mematikan mode pesawat.
+2025-02-05 07:47:00 - Menunggu 60 detik agar data aktif.
+2025-02-05 07:49:33 - Mengaktifkan tethering...
+2025-02-05 07:49:43 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 07:49:43 - IP forwarding diaktifkan.
+2025-02-05 07:49:49 - IPTables dikonfigurasi.
+2025-02-05 07:49:49 - Tethering diaktifkan.
+2025-02-05 07:49:53 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:49:54 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:50:05 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:50:06 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:50:07 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 07:50:07 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 07:50:18 - Mematikan mode pesawat.
+2025-02-05 07:50:18 - Menunggu 60 detik agar data aktif.
+2025-02-05 07:59:40 - Mengaktifkan tethering...
+2025-02-05 08:00:07 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 08:00:07 - IP forwarding diaktifkan.
+2025-02-05 08:00:07 - IPTables dikonfigurasi.
+2025-02-05 08:00:07 - Tethering diaktifkan.
+2025-02-05 08:00:08 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 08:00:16 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 08:00:17 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 08:00:18 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 08:00:19 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 08:00:19 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 08:00:25 - Mematikan mode pesawat.
+2025-02-05 08:00:25 - Menunggu 60 detik agar data aktif.
+2025-02-05 08:12:52 - Mengaktifkan tethering...
+2025-02-05 08:13:41 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 08:13:41 - IP forwarding diaktifkan.
+2025-02-05 08:13:41 - IPTables dikonfigurasi.
+2025-02-05 08:13:41 - Tethering diaktifkan.
+2025-02-05 08:13:53 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 08:14:42 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 08:14:54 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 08:15:43 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 08:15:55 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 08:15:55 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 08:16:03 - Mematikan mode pesawat.
+2025-02-05 08:16:04 - Menunggu 60 detik agar data aktif.
+2025-02-05 08:43:47 - Mengaktifkan tethering...
+2025-02-05 08:43:48 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 08:43:48 - IP forwarding diaktifkan.
+2025-02-05 08:43:48 - IPTables dikonfigurasi.
+2025-02-05 08:43:48 - Tethering diaktifkan.
+2025-02-05 08:43:49 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 08:43:50 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 08:43:51 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 08:43:52 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 08:43:53 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 08:43:53 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 08:43:58 - Mematikan mode pesawat.
+2025-02-05 08:43:59 - Menunggu 60 detik agar data aktif.
+2025-02-05 09:01:49 - Mengaktifkan tethering...
+2025-02-05 09:01:50 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 09:01:50 - IP forwarding diaktifkan.
+2025-02-05 09:01:50 - IPTables dikonfigurasi.
+2025-02-05 09:01:50 - Tethering diaktifkan.
+2025-02-05 09:01:51 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 09:01:52 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 09:01:53 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 09:01:54 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 09:02:40 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 09:02:40 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 09:02:46 - Mematikan mode pesawat.
+2025-02-05 09:02:46 - Menunggu 60 detik agar data aktif.
+2025-02-05 09:19:58 - Mengaktifkan tethering...
+2025-02-05 09:19:59 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 09:19:59 - IP forwarding diaktifkan.
+2025-02-05 09:19:59 - IPTables dikonfigurasi.
+2025-02-05 09:19:59 - Tethering diaktifkan.
+2025-02-05 09:20:01 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 09:20:02 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 09:20:03 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 09:20:07 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 09:20:57 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 09:20:57 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 09:21:02 - Mematikan mode pesawat.
+2025-02-05 09:21:02 - Menunggu 60 detik agar data aktif.
+2025-02-05 09:38:01 - Mengaktifkan tethering...
+2025-02-05 09:38:02 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 09:38:02 - IP forwarding diaktifkan.
+2025-02-05 09:38:02 - IPTables dikonfigurasi.
+2025-02-05 09:38:02 - Tethering diaktifkan.
+2025-02-05 09:38:04 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 09:38:05 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 09:38:06 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 09:38:07 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 09:38:08 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 09:38:08 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 09:38:13 - Mematikan mode pesawat.
+2025-02-05 09:38:13 - Menunggu 60 detik agar data aktif.
+2025-02-05 09:49:30 - Mengaktifkan tethering...
+2025-02-05 09:50:30 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 09:50:30 - IP forwarding diaktifkan.
+2025-02-05 09:50:30 - IPTables dikonfigurasi.
+2025-02-05 09:50:30 - Tethering diaktifkan.
+2025-02-05 09:51:31 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 09:51:41 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 09:52:33 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 09:52:52 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 09:53:27 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 09:53:27 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 09:53:35 - Mematikan mode pesawat.
+2025-02-05 09:53:36 - Menunggu 60 detik agar data aktif.
+2025-02-05 10:08:55 - Mengaktifkan tethering...
+2025-02-05 10:09:07 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 10:09:07 - IP forwarding diaktifkan.
+2025-02-05 10:09:07 - IPTables dikonfigurasi.
+2025-02-05 10:09:07 - Tethering diaktifkan.
+2025-02-05 10:09:57 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 10:10:58 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 10:11:07 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 10:11:59 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 10:13:00 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 10:13:00 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 10:13:08 - Mematikan mode pesawat.
+2025-02-05 10:13:09 - Menunggu 60 detik agar data aktif.
+2025-02-05 10:29:30 - Mengaktifkan tethering...
+2025-02-05 10:29:31 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 10:29:31 - IP forwarding diaktifkan.
+2025-02-05 10:29:31 - IPTables dikonfigurasi.
+2025-02-05 10:29:31 - Tethering diaktifkan.
+2025-02-05 10:30:30 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 10:30:31 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 10:30:32 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 10:30:33 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 10:30:34 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 10:30:35 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 10:30:40 - Mematikan mode pesawat.
+2025-02-05 10:30:40 - Menunggu 60 detik agar data aktif.
+2025-02-05 10:40:43 - Mengaktifkan tethering...
+2025-02-05 10:40:44 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 10:40:44 - IP forwarding diaktifkan.
+2025-02-05 10:40:44 - IPTables dikonfigurasi.
+2025-02-05 10:40:44 - Tethering diaktifkan.
+2025-02-05 10:40:45 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 10:40:46 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 10:40:47 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 10:40:48 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 10:40:49 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 10:40:49 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 10:40:55 - Mematikan mode pesawat.
+2025-02-05 10:40:55 - Menunggu 60 detik agar data aktif.
+2025-02-05 10:57:42 - Mengaktifkan tethering...
+2025-02-05 10:57:43 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 10:57:43 - IP forwarding diaktifkan.
+2025-02-05 10:57:43 - IPTables dikonfigurasi.
+2025-02-05 10:57:43 - Tethering diaktifkan.
+2025-02-05 10:57:44 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 10:57:52 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 10:57:53 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 10:58:43 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 10:58:53 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 10:58:53 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 10:59:01 - Mematikan mode pesawat.
+2025-02-05 10:59:02 - Menunggu 60 detik agar data aktif.
+2025-02-05 11:29:28 - Mengaktifkan tethering...
+2025-02-05 11:29:29 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 11:29:29 - IP forwarding diaktifkan.
+2025-02-05 11:29:29 - IPTables dikonfigurasi.
+2025-02-05 11:29:29 - Tethering diaktifkan.
+2025-02-05 11:29:30 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 11:29:31 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 11:29:32 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 11:29:33 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 11:30:19 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 11:30:19 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 11:30:27 - Mematikan mode pesawat.
+2025-02-05 11:30:27 - Menunggu 60 detik agar data aktif.
+2025-02-05 11:40:31 - Mengaktifkan tethering...
+2025-02-05 11:40:41 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 11:40:41 - IP forwarding diaktifkan.
+2025-02-05 11:40:41 - IPTables dikonfigurasi.
+2025-02-05 11:40:41 - Tethering diaktifkan.
+2025-02-05 11:40:52 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 11:41:42 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 11:42:42 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 11:43:43 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 11:43:44 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 11:43:44 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 11:43:49 - Mematikan mode pesawat.
+2025-02-05 11:43:50 - Menunggu 60 detik agar data aktif.
+2025-02-05 12:13:53 - Mengaktifkan tethering...
+2025-02-05 12:14:24 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 12:14:24 - IP forwarding diaktifkan.
+2025-02-05 12:14:24 - IPTables dikonfigurasi.
+2025-02-05 12:14:24 - Tethering diaktifkan.
+2025-02-05 12:14:33 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 12:14:34 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 12:15:25 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 12:15:26 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 12:15:33 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 12:15:33 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 12:15:39 - Mematikan mode pesawat.
+2025-02-05 12:15:39 - Menunggu 60 detik agar data aktif.
+2025-02-05 12:32:30 - Mengaktifkan tethering...
+2025-02-05 12:32:31 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 12:32:31 - IP forwarding diaktifkan.
+2025-02-05 12:32:31 - IPTables dikonfigurasi.
+2025-02-05 12:32:31 - Tethering diaktifkan.
+2025-02-05 12:32:32 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 12:32:33 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 12:33:00 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 12:33:01 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 12:33:27 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 12:33:27 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 12:33:32 - Mematikan mode pesawat.
+2025-02-05 12:33:32 - Menunggu 60 detik agar data aktif.
+2025-02-05 12:50:29 - Mengaktifkan tethering...
+2025-02-05 12:50:30 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 12:50:30 - IP forwarding diaktifkan.
+2025-02-05 12:50:30 - IPTables dikonfigurasi.
+2025-02-05 12:50:30 - Tethering diaktifkan.
+2025-02-05 12:50:31 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 12:50:32 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 12:50:33 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 12:50:34 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 12:50:35 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 12:50:35 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 12:50:41 - Mematikan mode pesawat.
+2025-02-05 12:50:41 - Menunggu 60 detik agar data aktif.
+2025-02-05 13:06:10 - Mengaktifkan tethering...
+2025-02-05 13:07:02 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 13:07:02 - IP forwarding diaktifkan.
+2025-02-05 13:07:02 - IPTables dikonfigurasi.
+2025-02-05 13:07:02 - Tethering diaktifkan.
+2025-02-05 13:08:02 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:08:03 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:08:15 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:08:29 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:08:30 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:08:31 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 13:08:36 - Mematikan mode pesawat.
+2025-02-05 13:08:36 - Menunggu 60 detik agar data aktif.
+2025-02-05 13:19:24 - Mengaktifkan tethering...
+2025-02-05 13:19:31 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 13:19:31 - IP forwarding diaktifkan.
+2025-02-05 13:19:41 - IPTables dikonfigurasi.
+2025-02-05 13:19:41 - Tethering diaktifkan.
+2025-02-05 13:19:51 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:19:52 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:20:05 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:20:52 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:20:53 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:20:53 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 13:20:58 - Mematikan mode pesawat.
+2025-02-05 13:20:58 - Menunggu 60 detik agar data aktif.
+2025-02-05 13:34:16 - Mengaktifkan tethering...
+2025-02-05 13:35:15 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 13:35:16 - IP forwarding diaktifkan.
+2025-02-05 13:35:16 - IPTables dikonfigurasi.
+2025-02-05 13:35:16 - Tethering diaktifkan.
+2025-02-05 13:35:17 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:35:21 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:35:31 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:35:32 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:35:33 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:35:33 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 13:35:39 - Mematikan mode pesawat.
+2025-02-05 13:35:39 - Menunggu 60 detik agar data aktif.
+2025-02-05 13:44:33 - Mengaktifkan tethering...
+2025-02-05 13:44:35 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 13:44:35 - IP forwarding diaktifkan.
+2025-02-05 13:44:35 - IPTables dikonfigurasi.
+2025-02-05 13:44:35 - Tethering diaktifkan.
+2025-02-05 13:44:36 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:44:37 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:44:39 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:44:40 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:44:41 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:44:41 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 13:44:47 - Mematikan mode pesawat.
+2025-02-05 13:44:48 - Menunggu 60 detik agar data aktif.
+2025-02-05 13:45:48 - Mengaktifkan tethering...
+2025-02-05 13:45:49 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 13:45:49 - IP forwarding diaktifkan.
+2025-02-05 13:45:49 - IPTables dikonfigurasi.
+2025-02-05 13:45:49 - Tethering diaktifkan.
+2025-02-05 13:45:50 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:45:51 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:45:52 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:45:53 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:45:54 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:45:54 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 13:45:59 - Mematikan mode pesawat.
+2025-02-05 13:46:00 - Menunggu 60 detik agar data aktif.
+2025-02-05 13:49:29 - Mengaktifkan tethering...
+2025-02-05 13:49:30 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 13:49:30 - IP forwarding diaktifkan.
+2025-02-05 13:49:30 - IPTables dikonfigurasi.
+2025-02-05 13:49:30 - Tethering diaktifkan.
+2025-02-05 13:49:31 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:49:50 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:49:51 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:49:52 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:49:53 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:49:53 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 13:49:59 - Mematikan mode pesawat.
+2025-02-05 13:49:59 - Menunggu 60 detik agar data aktif.
+2025-02-05 13:54:02 - Mengaktifkan tethering...
+2025-02-05 13:54:03 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 13:54:03 - IP forwarding diaktifkan.
+2025-02-05 13:54:03 - IPTables dikonfigurasi.
+2025-02-05 13:54:03 - Tethering diaktifkan.
+2025-02-05 13:54:04 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:54:05 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:54:19 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:54:20 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:54:21 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:54:21 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 13:54:28 - Mematikan mode pesawat.
+2025-02-05 13:54:28 - Menunggu 60 detik agar data aktif.
+2025-02-05 13:56:39 - Mengaktifkan tethering...
+2025-02-05 13:56:40 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 13:56:40 - IP forwarding diaktifkan.
+2025-02-05 13:56:40 - IPTables dikonfigurasi.
+2025-02-05 13:56:40 - Tethering diaktifkan.
+2025-02-05 13:56:41 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:56:42 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:56:46 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:56:47 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:56:48 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:56:48 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 13:56:54 - Mematikan mode pesawat.
+2025-02-05 13:56:54 - Menunggu 60 detik agar data aktif.
+2025-02-05 13:58:25 - Mengaktifkan tethering...
+2025-02-05 13:58:26 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 13:58:26 - IP forwarding diaktifkan.
+2025-02-05 13:58:26 - IPTables dikonfigurasi.
+2025-02-05 13:58:26 - Tethering diaktifkan.
+2025-02-05 13:58:27 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:58:28 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:58:29 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:58:30 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:58:31 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 13:58:31 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 13:58:37 - Mematikan mode pesawat.
+2025-02-05 13:58:37 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:01:59 - Mengaktifkan tethering...
+2025-02-05 14:02:00 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:02:00 - IP forwarding diaktifkan.
+2025-02-05 14:02:00 - IPTables dikonfigurasi.
+2025-02-05 14:02:00 - Tethering diaktifkan.
+2025-02-05 14:02:01 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:02:02 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:02:03 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:02:04 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:02:05 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:02:05 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:02:11 - Mematikan mode pesawat.
+2025-02-05 14:02:11 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:04:24 - Mengaktifkan tethering...
+2025-02-05 14:04:25 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:04:25 - IP forwarding diaktifkan.
+2025-02-05 14:04:25 - IPTables dikonfigurasi.
+2025-02-05 14:04:25 - Tethering diaktifkan.
+2025-02-05 14:04:26 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:04:30 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:04:31 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:04:32 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:04:33 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:04:33 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:04:38 - Mematikan mode pesawat.
+2025-02-05 14:04:39 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:06:41 - Mengaktifkan tethering...
+2025-02-05 14:06:42 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:06:42 - IP forwarding diaktifkan.
+2025-02-05 14:06:42 - IPTables dikonfigurasi.
+2025-02-05 14:06:42 - Tethering diaktifkan.
+2025-02-05 14:06:43 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:06:45 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:06:46 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:06:52 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:06:53 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:06:53 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:06:58 - Mematikan mode pesawat.
+2025-02-05 14:06:58 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:08:57 - Mengaktifkan tethering...
+2025-02-05 14:08:58 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:08:58 - IP forwarding diaktifkan.
+2025-02-05 14:08:58 - IPTables dikonfigurasi.
+2025-02-05 14:08:58 - Tethering diaktifkan.
+2025-02-05 14:09:11 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:09:25 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:09:38 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:09:39 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:09:41 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:09:41 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:09:46 - Mematikan mode pesawat.
+2025-02-05 14:09:46 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:11:43 - Mengaktifkan tethering...
+2025-02-05 14:11:44 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:11:44 - IP forwarding diaktifkan.
+2025-02-05 14:11:44 - IPTables dikonfigurasi.
+2025-02-05 14:11:44 - Tethering diaktifkan.
+2025-02-05 14:11:45 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:11:46 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:11:50 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:11:51 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:11:52 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:11:52 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:12:00 - Mematikan mode pesawat.
+2025-02-05 14:12:00 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:14:10 - Mengaktifkan tethering...
+2025-02-05 14:14:11 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:14:11 - IP forwarding diaktifkan.
+2025-02-05 14:14:11 - IPTables dikonfigurasi.
+2025-02-05 14:14:11 - Tethering diaktifkan.
+2025-02-05 14:14:23 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:14:24 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:14:25 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:14:26 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:14:27 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:14:27 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:14:33 - Mematikan mode pesawat.
+2025-02-05 14:14:33 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:16:35 - Mengaktifkan tethering...
+2025-02-05 14:16:36 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:16:36 - IP forwarding diaktifkan.
+2025-02-05 14:16:36 - IPTables dikonfigurasi.
+2025-02-05 14:16:36 - Tethering diaktifkan.
+2025-02-05 14:16:37 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:16:38 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:16:43 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:16:44 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:16:45 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:16:45 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:16:51 - Mematikan mode pesawat.
+2025-02-05 14:16:51 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:18:38 - Mengaktifkan tethering...
+2025-02-05 14:18:39 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:18:39 - IP forwarding diaktifkan.
+2025-02-05 14:18:39 - IPTables dikonfigurasi.
+2025-02-05 14:18:39 - Tethering diaktifkan.
+2025-02-05 14:18:40 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:18:41 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:18:42 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:18:44 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:18:48 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:18:48 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:18:53 - Mematikan mode pesawat.
+2025-02-05 14:18:54 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:22:20 - Mengaktifkan tethering...
+2025-02-05 14:22:21 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:22:21 - IP forwarding diaktifkan.
+2025-02-05 14:22:21 - IPTables dikonfigurasi.
+2025-02-05 14:22:21 - Tethering diaktifkan.
+2025-02-05 14:22:22 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:22:23 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:22:24 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:22:26 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:22:29 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:22:29 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:22:35 - Mematikan mode pesawat.
+2025-02-05 14:22:35 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:24:55 - Mengaktifkan tethering...
+2025-02-05 14:24:56 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:24:56 - IP forwarding diaktifkan.
+2025-02-05 14:24:56 - IPTables dikonfigurasi.
+2025-02-05 14:24:56 - Tethering diaktifkan.
+2025-02-05 14:24:57 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:24:58 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:25:04 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:25:05 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:25:06 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:25:06 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:25:12 - Mematikan mode pesawat.
+2025-02-05 14:25:12 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:28:14 - Mengaktifkan tethering...
+2025-02-05 14:28:14 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:28:14 - IP forwarding diaktifkan.
+2025-02-05 14:28:15 - IPTables dikonfigurasi.
+2025-02-05 14:28:15 - Tethering diaktifkan.
+2025-02-05 14:28:17 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:28:18 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:28:19 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:28:21 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:28:22 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:28:22 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:28:27 - Mematikan mode pesawat.
+2025-02-05 14:28:27 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:32:27 - Mengaktifkan tethering...
+2025-02-05 14:32:27 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:32:27 - IP forwarding diaktifkan.
+2025-02-05 14:32:27 - IPTables dikonfigurasi.
+2025-02-05 14:32:27 - Tethering diaktifkan.
+2025-02-05 14:32:43 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:32:44 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:32:45 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:32:46 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:32:47 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:32:47 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:32:53 - Mematikan mode pesawat.
+2025-02-05 14:32:53 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:35:04 - Mengaktifkan tethering...
+2025-02-05 14:35:09 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:35:09 - IP forwarding diaktifkan.
+2025-02-05 14:35:09 - IPTables dikonfigurasi.
+2025-02-05 14:35:09 - Tethering diaktifkan.
+2025-02-05 14:35:15 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:35:16 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:35:20 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:35:21 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:35:22 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:35:22 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:35:27 - Mematikan mode pesawat.
+2025-02-05 14:35:27 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:38:42 - Mengaktifkan tethering...
+2025-02-05 14:38:43 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:38:43 - IP forwarding diaktifkan.
+2025-02-05 14:38:43 - IPTables dikonfigurasi.
+2025-02-05 14:38:43 - Tethering diaktifkan.
+2025-02-05 14:38:44 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:38:45 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:38:46 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:38:47 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:38:48 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:38:48 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:38:54 - Mematikan mode pesawat.
+2025-02-05 14:38:54 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:39:58 - Mengaktifkan tethering...
+2025-02-05 14:39:59 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:39:59 - IP forwarding diaktifkan.
+2025-02-05 14:39:59 - IPTables dikonfigurasi.
+2025-02-05 14:39:59 - Tethering diaktifkan.
+2025-02-05 14:40:00 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:40:01 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:40:02 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:40:03 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:40:04 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:40:04 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:40:10 - Mematikan mode pesawat.
+2025-02-05 14:40:10 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:41:10 - Mengaktifkan tethering...
+2025-02-05 14:41:11 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:41:11 - IP forwarding diaktifkan.
+2025-02-05 14:41:11 - IPTables dikonfigurasi.
+2025-02-05 14:41:11 - Tethering diaktifkan.
+2025-02-05 14:41:12 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:41:13 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:41:14 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:41:15 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:41:17 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:41:17 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:41:22 - Mematikan mode pesawat.
+2025-02-05 14:41:23 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:42:23 - Mengaktifkan tethering...
+2025-02-05 14:42:24 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:42:24 - IP forwarding diaktifkan.
+2025-02-05 14:42:24 - IPTables dikonfigurasi.
+2025-02-05 14:42:24 - Tethering diaktifkan.
+2025-02-05 14:42:25 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:42:26 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:42:27 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:42:28 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:42:29 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:42:29 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:42:35 - Mematikan mode pesawat.
+2025-02-05 14:42:35 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:43:35 - Mengaktifkan tethering...
+2025-02-05 14:43:36 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:43:36 - IP forwarding diaktifkan.
+2025-02-05 14:43:36 - IPTables dikonfigurasi.
+2025-02-05 14:43:36 - Tethering diaktifkan.
+2025-02-05 14:43:38 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:43:39 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:43:40 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:43:41 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:43:42 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:43:42 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:43:47 - Mematikan mode pesawat.
+2025-02-05 14:43:48 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:44:48 - Mengaktifkan tethering...
+2025-02-05 14:44:49 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:44:49 - IP forwarding diaktifkan.
+2025-02-05 14:44:49 - IPTables dikonfigurasi.
+2025-02-05 14:44:49 - Tethering diaktifkan.
+2025-02-05 14:44:50 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:44:51 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:44:52 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:44:53 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:44:54 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:44:54 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:45:00 - Mematikan mode pesawat.
+2025-02-05 14:45:00 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:46:00 - Mengaktifkan tethering...
+2025-02-05 14:46:01 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:46:02 - IP forwarding diaktifkan.
+2025-02-05 14:46:02 - IPTables dikonfigurasi.
+2025-02-05 14:46:02 - Tethering diaktifkan.
+2025-02-05 14:46:03 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:46:04 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:46:05 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:46:06 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:46:07 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:46:07 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:46:12 - Mematikan mode pesawat.
+2025-02-05 14:46:13 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:47:13 - Mengaktifkan tethering...
+2025-02-05 14:47:14 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:47:14 - IP forwarding diaktifkan.
+2025-02-05 14:47:14 - IPTables dikonfigurasi.
+2025-02-05 14:47:14 - Tethering diaktifkan.
+2025-02-05 14:47:15 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:47:16 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:47:17 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:47:18 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:47:19 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:47:20 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:47:25 - Mematikan mode pesawat.
+2025-02-05 14:47:25 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:48:25 - Mengaktifkan tethering...
+2025-02-05 14:48:26 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:48:26 - IP forwarding diaktifkan.
+2025-02-05 14:48:26 - IPTables dikonfigurasi.
+2025-02-05 14:48:26 - Tethering diaktifkan.
+2025-02-05 14:48:28 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:48:29 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:48:30 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:48:31 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:48:32 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:48:32 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:48:38 - Mematikan mode pesawat.
+2025-02-05 14:48:38 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:49:38 - Mengaktifkan tethering...
+2025-02-05 14:49:39 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:49:39 - IP forwarding diaktifkan.
+2025-02-05 14:49:39 - IPTables dikonfigurasi.
+2025-02-05 14:49:39 - Tethering diaktifkan.
+2025-02-05 14:49:40 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:49:41 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:49:43 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:49:44 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:49:45 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:49:45 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:49:50 - Mematikan mode pesawat.
+2025-02-05 14:49:51 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:50:51 - Mengaktifkan tethering...
+2025-02-05 14:50:52 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:50:52 - IP forwarding diaktifkan.
+2025-02-05 14:50:52 - IPTables dikonfigurasi.
+2025-02-05 14:50:52 - Tethering diaktifkan.
+2025-02-05 14:50:53 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:50:54 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:50:55 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:50:56 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:50:57 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:50:57 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:51:03 - Mematikan mode pesawat.
+2025-02-05 14:51:03 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:52:03 - Mengaktifkan tethering...
+2025-02-05 14:52:04 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:52:04 - IP forwarding diaktifkan.
+2025-02-05 14:52:04 - IPTables dikonfigurasi.
+2025-02-05 14:52:04 - Tethering diaktifkan.
+2025-02-05 14:52:05 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:52:06 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:52:07 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:52:08 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:52:09 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:52:09 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:52:15 - Mematikan mode pesawat.
+2025-02-05 14:52:15 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:53:15 - Mengaktifkan tethering...
+2025-02-05 14:53:16 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:53:16 - IP forwarding diaktifkan.
+2025-02-05 14:53:16 - IPTables dikonfigurasi.
+2025-02-05 14:53:16 - Tethering diaktifkan.
+2025-02-05 14:53:17 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:53:19 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:53:20 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:53:21 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:53:22 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:53:22 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:53:27 - Mematikan mode pesawat.
+2025-02-05 14:53:28 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:54:28 - Mengaktifkan tethering...
+2025-02-05 14:54:29 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:54:29 - IP forwarding diaktifkan.
+2025-02-05 14:54:29 - IPTables dikonfigurasi.
+2025-02-05 14:54:29 - Tethering diaktifkan.
+2025-02-05 14:54:30 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:54:31 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:54:32 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:54:33 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:54:34 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:54:34 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:54:40 - Mematikan mode pesawat.
+2025-02-05 14:54:40 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:55:40 - Mengaktifkan tethering...
+2025-02-05 14:55:41 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:55:41 - IP forwarding diaktifkan.
+2025-02-05 14:55:41 - IPTables dikonfigurasi.
+2025-02-05 14:55:41 - Tethering diaktifkan.
+2025-02-05 14:55:42 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:55:43 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:55:44 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:55:45 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:55:47 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:55:47 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:55:52 - Mematikan mode pesawat.
+2025-02-05 14:55:52 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:56:52 - Mengaktifkan tethering...
+2025-02-05 14:56:53 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:56:53 - IP forwarding diaktifkan.
+2025-02-05 14:56:54 - IPTables dikonfigurasi.
+2025-02-05 14:56:54 - Tethering diaktifkan.
+2025-02-05 14:56:55 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:56:56 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:56:57 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:56:58 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:56:59 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:56:59 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:57:04 - Mematikan mode pesawat.
+2025-02-05 14:57:05 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:58:05 - Mengaktifkan tethering...
+2025-02-05 14:58:06 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:58:06 - IP forwarding diaktifkan.
+2025-02-05 14:58:06 - IPTables dikonfigurasi.
+2025-02-05 14:58:06 - Tethering diaktifkan.
+2025-02-05 14:58:07 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:58:08 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:58:09 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:58:10 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:58:11 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:58:11 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:58:17 - Mematikan mode pesawat.
+2025-02-05 14:58:17 - Menunggu 60 detik agar data aktif.
+2025-02-05 14:59:17 - Mengaktifkan tethering...
+2025-02-05 14:59:18 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 14:59:18 - IP forwarding diaktifkan.
+2025-02-05 14:59:18 - IPTables dikonfigurasi.
+2025-02-05 14:59:18 - Tethering diaktifkan.
+2025-02-05 14:59:19 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:59:20 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:59:21 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:59:22 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:59:24 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 14:59:24 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 14:59:29 - Mematikan mode pesawat.
+2025-02-05 14:59:29 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:00:29 - Mengaktifkan tethering...
+2025-02-05 15:00:30 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:00:30 - IP forwarding diaktifkan.
+2025-02-05 15:00:30 - IPTables dikonfigurasi.
+2025-02-05 15:00:30 - Tethering diaktifkan.
+2025-02-05 15:00:31 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:00:33 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:00:34 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:00:35 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:00:36 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:00:36 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:00:41 - Mematikan mode pesawat.
+2025-02-05 15:00:42 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:01:42 - Mengaktifkan tethering...
+2025-02-05 15:01:43 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:01:43 - IP forwarding diaktifkan.
+2025-02-05 15:01:43 - IPTables dikonfigurasi.
+2025-02-05 15:01:43 - Tethering diaktifkan.
+2025-02-05 15:01:44 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:01:45 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:01:46 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:01:47 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:01:48 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:01:48 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:01:54 - Mematikan mode pesawat.
+2025-02-05 15:01:54 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:02:54 - Mengaktifkan tethering...
+2025-02-05 15:02:55 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:02:55 - IP forwarding diaktifkan.
+2025-02-05 15:02:55 - IPTables dikonfigurasi.
+2025-02-05 15:02:55 - Tethering diaktifkan.
+2025-02-05 15:02:56 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:02:57 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:02:58 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:02:59 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:03:00 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:03:00 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:03:06 - Mematikan mode pesawat.
+2025-02-05 15:03:06 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:04:06 - Mengaktifkan tethering...
+2025-02-05 15:04:07 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:04:07 - IP forwarding diaktifkan.
+2025-02-05 15:04:07 - IPTables dikonfigurasi.
+2025-02-05 15:04:07 - Tethering diaktifkan.
+2025-02-05 15:04:08 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:04:10 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:04:11 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:04:12 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:04:13 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:04:13 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:04:18 - Mematikan mode pesawat.
+2025-02-05 15:04:19 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:05:19 - Mengaktifkan tethering...
+2025-02-05 15:05:20 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:05:20 - IP forwarding diaktifkan.
+2025-02-05 15:05:20 - IPTables dikonfigurasi.
+2025-02-05 15:05:20 - Tethering diaktifkan.
+2025-02-05 15:05:21 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:05:22 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:05:23 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:05:24 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:05:25 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:05:25 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:05:30 - Mematikan mode pesawat.
+2025-02-05 15:05:31 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:06:31 - Mengaktifkan tethering...
+2025-02-05 15:06:32 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:06:32 - IP forwarding diaktifkan.
+2025-02-05 15:06:32 - IPTables dikonfigurasi.
+2025-02-05 15:06:32 - Tethering diaktifkan.
+2025-02-05 15:06:33 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:06:34 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:06:35 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:06:36 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:06:37 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:06:37 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:06:43 - Mematikan mode pesawat.
+2025-02-05 15:06:43 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:07:43 - Mengaktifkan tethering...
+2025-02-05 15:07:44 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:07:44 - IP forwarding diaktifkan.
+2025-02-05 15:07:44 - IPTables dikonfigurasi.
+2025-02-05 15:07:44 - Tethering diaktifkan.
+2025-02-05 15:07:46 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:07:47 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:07:48 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:07:49 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:07:50 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:07:50 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:07:55 - Mematikan mode pesawat.
+2025-02-05 15:07:56 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:08:56 - Mengaktifkan tethering...
+2025-02-05 15:08:57 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:08:57 - IP forwarding diaktifkan.
+2025-02-05 15:08:57 - IPTables dikonfigurasi.
+2025-02-05 15:08:57 - Tethering diaktifkan.
+2025-02-05 15:08:58 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:08:59 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:09:00 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:09:01 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:09:02 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:09:02 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:09:08 - Mematikan mode pesawat.
+2025-02-05 15:09:08 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:10:08 - Mengaktifkan tethering...
+2025-02-05 15:10:09 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:10:09 - IP forwarding diaktifkan.
+2025-02-05 15:10:09 - IPTables dikonfigurasi.
+2025-02-05 15:10:09 - Tethering diaktifkan.
+2025-02-05 15:10:10 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:10:11 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:10:12 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:10:13 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:10:15 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:10:15 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:10:20 - Mematikan mode pesawat.
+2025-02-05 15:10:20 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:11:20 - Mengaktifkan tethering...
+2025-02-05 15:11:21 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:11:21 - IP forwarding diaktifkan.
+2025-02-05 15:11:21 - IPTables dikonfigurasi.
+2025-02-05 15:11:21 - Tethering diaktifkan.
+2025-02-05 15:11:23 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:11:24 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:11:25 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:11:26 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:11:27 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:11:27 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:11:32 - Mematikan mode pesawat.
+2025-02-05 15:11:33 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:12:33 - Mengaktifkan tethering...
+2025-02-05 15:12:34 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:12:34 - IP forwarding diaktifkan.
+2025-02-05 15:12:34 - IPTables dikonfigurasi.
+2025-02-05 15:12:34 - Tethering diaktifkan.
+2025-02-05 15:12:35 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:12:36 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:12:37 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:12:39 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:12:40 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:12:40 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:12:45 - Mematikan mode pesawat.
+2025-02-05 15:12:46 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:13:46 - Mengaktifkan tethering...
+2025-02-05 15:13:47 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:13:47 - IP forwarding diaktifkan.
+2025-02-05 15:13:47 - IPTables dikonfigurasi.
+2025-02-05 15:13:47 - Tethering diaktifkan.
+2025-02-05 15:13:48 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:13:49 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:13:50 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:13:51 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:13:52 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:13:52 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:13:58 - Mematikan mode pesawat.
+2025-02-05 15:13:58 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:14:58 - Mengaktifkan tethering...
+2025-02-05 15:15:00 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:15:00 - IP forwarding diaktifkan.
+2025-02-05 15:15:00 - IPTables dikonfigurasi.
+2025-02-05 15:15:00 - Tethering diaktifkan.
+2025-02-05 15:15:01 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:15:02 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:15:03 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:15:04 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:15:05 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:15:05 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:15:11 - Mematikan mode pesawat.
+2025-02-05 15:15:11 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:16:11 - Mengaktifkan tethering...
+2025-02-05 15:16:12 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:16:12 - IP forwarding diaktifkan.
+2025-02-05 15:16:13 - IPTables dikonfigurasi.
+2025-02-05 15:16:13 - Tethering diaktifkan.
+2025-02-05 15:16:14 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:16:15 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:16:16 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:16:17 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:16:18 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:16:18 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:16:24 - Mematikan mode pesawat.
+2025-02-05 15:16:24 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:17:24 - Mengaktifkan tethering...
+2025-02-05 15:17:25 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:17:25 - IP forwarding diaktifkan.
+2025-02-05 15:17:26 - IPTables dikonfigurasi.
+2025-02-05 15:17:26 - Tethering diaktifkan.
+2025-02-05 15:17:27 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:17:28 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:17:29 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:17:30 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:17:31 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:17:31 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:17:37 - Mematikan mode pesawat.
+2025-02-05 15:17:37 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:18:37 - Mengaktifkan tethering...
+2025-02-05 15:18:38 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:18:38 - IP forwarding diaktifkan.
+2025-02-05 15:18:38 - IPTables dikonfigurasi.
+2025-02-05 15:18:38 - Tethering diaktifkan.
+2025-02-05 15:18:39 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:18:41 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:18:42 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:18:43 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:18:44 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:18:44 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:18:49 - Mematikan mode pesawat.
+2025-02-05 15:18:50 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:19:50 - Mengaktifkan tethering...
+2025-02-05 15:19:51 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:19:51 - IP forwarding diaktifkan.
+2025-02-05 15:19:51 - IPTables dikonfigurasi.
+2025-02-05 15:19:51 - Tethering diaktifkan.
+2025-02-05 15:19:52 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:19:53 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:19:54 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:19:55 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:19:56 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:19:56 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:20:02 - Mematikan mode pesawat.
+2025-02-05 15:20:02 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:21:02 - Mengaktifkan tethering...
+2025-02-05 15:21:04 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:21:04 - IP forwarding diaktifkan.
+2025-02-05 15:21:04 - IPTables dikonfigurasi.
+2025-02-05 15:21:04 - Tethering diaktifkan.
+2025-02-05 15:21:05 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:21:06 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:21:07 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:21:08 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:21:09 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:21:09 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:21:15 - Mematikan mode pesawat.
+2025-02-05 15:21:15 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:22:15 - Mengaktifkan tethering...
+2025-02-05 15:22:16 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:22:16 - IP forwarding diaktifkan.
+2025-02-05 15:22:16 - IPTables dikonfigurasi.
+2025-02-05 15:22:16 - Tethering diaktifkan.
+2025-02-05 15:22:17 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:22:18 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:22:20 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:22:21 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:22:22 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:22:22 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:22:27 - Mematikan mode pesawat.
+2025-02-05 15:22:28 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:23:28 - Mengaktifkan tethering...
+2025-02-05 15:23:29 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:23:29 - IP forwarding diaktifkan.
+2025-02-05 15:23:29 - IPTables dikonfigurasi.
+2025-02-05 15:23:29 - Tethering diaktifkan.
+2025-02-05 15:23:30 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:23:31 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:23:32 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:23:33 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:23:35 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:23:35 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:23:40 - Mematikan mode pesawat.
+2025-02-05 15:23:40 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:24:40 - Mengaktifkan tethering...
+2025-02-05 15:24:42 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:24:42 - IP forwarding diaktifkan.
+2025-02-05 15:24:42 - IPTables dikonfigurasi.
+2025-02-05 15:24:42 - Tethering diaktifkan.
+2025-02-05 15:24:43 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:24:44 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:24:45 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:24:46 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:24:47 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:24:47 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:24:53 - Mematikan mode pesawat.
+2025-02-05 15:24:53 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:25:53 - Mengaktifkan tethering...
+2025-02-05 15:25:54 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:25:54 - IP forwarding diaktifkan.
+2025-02-05 15:25:55 - IPTables dikonfigurasi.
+2025-02-05 15:25:55 - Tethering diaktifkan.
+2025-02-05 15:25:56 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:25:57 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:25:58 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:25:59 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:26:00 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:26:00 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:26:05 - Mematikan mode pesawat.
+2025-02-05 15:26:06 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:27:06 - Mengaktifkan tethering...
+2025-02-05 15:27:07 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:27:07 - IP forwarding diaktifkan.
+2025-02-05 15:27:07 - IPTables dikonfigurasi.
+2025-02-05 15:27:07 - Tethering diaktifkan.
+2025-02-05 15:27:08 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:27:09 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:27:10 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:27:12 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:27:13 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:27:13 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:27:18 - Mematikan mode pesawat.
+2025-02-05 15:27:19 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:28:19 - Mengaktifkan tethering...
+2025-02-05 15:28:20 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:28:20 - IP forwarding diaktifkan.
+2025-02-05 15:28:20 - IPTables dikonfigurasi.
+2025-02-05 15:28:20 - Tethering diaktifkan.
+2025-02-05 15:28:21 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:28:22 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:28:23 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:28:24 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:28:25 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:28:25 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:28:31 - Mematikan mode pesawat.
+2025-02-05 15:28:31 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:29:32 - Mengaktifkan tethering...
+2025-02-05 15:29:33 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:29:33 - IP forwarding diaktifkan.
+2025-02-05 15:29:33 - IPTables dikonfigurasi.
+2025-02-05 15:29:33 - Tethering diaktifkan.
+2025-02-05 15:29:34 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:29:35 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:29:36 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:29:37 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:29:38 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:29:38 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:29:44 - Mematikan mode pesawat.
+2025-02-05 15:29:44 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:30:44 - Mengaktifkan tethering...
+2025-02-05 15:30:45 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:30:45 - IP forwarding diaktifkan.
+2025-02-05 15:30:46 - IPTables dikonfigurasi.
+2025-02-05 15:30:46 - Tethering diaktifkan.
+2025-02-05 15:30:47 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:30:48 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:30:49 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:30:50 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:30:51 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:30:51 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:30:56 - Mematikan mode pesawat.
+2025-02-05 15:30:57 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:31:57 - Mengaktifkan tethering...
+2025-02-05 15:31:58 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:31:58 - IP forwarding diaktifkan.
+2025-02-05 15:31:58 - IPTables dikonfigurasi.
+2025-02-05 15:31:58 - Tethering diaktifkan.
+2025-02-05 15:31:59 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:32:00 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:32:02 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:32:03 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:32:04 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:32:04 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:32:09 - Mematikan mode pesawat.
+2025-02-05 15:32:10 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:33:10 - Mengaktifkan tethering...
+2025-02-05 15:33:11 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:33:11 - IP forwarding diaktifkan.
+2025-02-05 15:33:11 - IPTables dikonfigurasi.
+2025-02-05 15:33:11 - Tethering diaktifkan.
+2025-02-05 15:33:12 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:33:13 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:33:14 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:33:15 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:33:16 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:33:16 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:33:22 - Mematikan mode pesawat.
+2025-02-05 15:33:22 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:34:22 - Mengaktifkan tethering...
+2025-02-05 15:34:24 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:34:24 - IP forwarding diaktifkan.
+2025-02-05 15:34:24 - IPTables dikonfigurasi.
+2025-02-05 15:34:24 - Tethering diaktifkan.
+2025-02-05 15:34:25 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:34:26 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:34:27 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:34:28 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:34:29 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:34:29 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:34:35 - Mematikan mode pesawat.
+2025-02-05 15:34:35 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:35:35 - Mengaktifkan tethering...
+2025-02-05 15:35:36 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:35:36 - IP forwarding diaktifkan.
+2025-02-05 15:35:37 - IPTables dikonfigurasi.
+2025-02-05 15:35:37 - Tethering diaktifkan.
+2025-02-05 15:35:38 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:35:39 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:35:40 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:35:41 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:35:42 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:35:42 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:35:47 - Mematikan mode pesawat.
+2025-02-05 15:35:48 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:36:48 - Mengaktifkan tethering...
+2025-02-05 15:36:49 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:36:49 - IP forwarding diaktifkan.
+2025-02-05 15:36:49 - IPTables dikonfigurasi.
+2025-02-05 15:36:49 - Tethering diaktifkan.
+2025-02-05 15:36:50 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:36:51 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:36:53 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:36:54 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:36:55 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:36:55 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:37:00 - Mematikan mode pesawat.
+2025-02-05 15:37:01 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:38:01 - Mengaktifkan tethering...
+2025-02-05 15:38:02 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:38:02 - IP forwarding diaktifkan.
+2025-02-05 15:38:02 - IPTables dikonfigurasi.
+2025-02-05 15:38:02 - Tethering diaktifkan.
+2025-02-05 15:38:03 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:38:04 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:38:05 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:38:06 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:38:07 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:38:07 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:38:13 - Mematikan mode pesawat.
+2025-02-05 15:38:13 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:39:13 - Mengaktifkan tethering...
+2025-02-05 15:39:15 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:39:15 - IP forwarding diaktifkan.
+2025-02-05 15:39:15 - IPTables dikonfigurasi.
+2025-02-05 15:39:15 - Tethering diaktifkan.
+2025-02-05 15:39:16 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:39:17 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:39:18 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:39:19 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:39:20 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:39:20 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:39:26 - Mematikan mode pesawat.
+2025-02-05 15:39:26 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:40:26 - Mengaktifkan tethering...
+2025-02-05 15:40:27 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:40:27 - IP forwarding diaktifkan.
+2025-02-05 15:40:27 - IPTables dikonfigurasi.
+2025-02-05 15:40:27 - Tethering diaktifkan.
+2025-02-05 15:40:29 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:40:30 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:40:31 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:40:32 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:40:33 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:40:33 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:40:38 - Mematikan mode pesawat.
+2025-02-05 15:40:39 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:41:39 - Mengaktifkan tethering...
+2025-02-05 15:41:40 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:41:40 - IP forwarding diaktifkan.
+2025-02-05 15:41:40 - IPTables dikonfigurasi.
+2025-02-05 15:41:40 - Tethering diaktifkan.
+2025-02-05 15:41:41 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:41:42 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:41:44 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:41:45 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:41:46 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:41:46 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:41:51 - Mematikan mode pesawat.
+2025-02-05 15:41:52 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:42:52 - Mengaktifkan tethering...
+2025-02-05 15:42:53 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:42:53 - IP forwarding diaktifkan.
+2025-02-05 15:42:53 - IPTables dikonfigurasi.
+2025-02-05 15:42:53 - Tethering diaktifkan.
+2025-02-05 15:42:54 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:42:55 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:42:56 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:42:57 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:42:58 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:42:58 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:43:04 - Mematikan mode pesawat.
+2025-02-05 15:43:04 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:44:04 - Mengaktifkan tethering...
+2025-02-05 15:44:06 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:44:06 - IP forwarding diaktifkan.
+2025-02-05 15:44:06 - IPTables dikonfigurasi.
+2025-02-05 15:44:06 - Tethering diaktifkan.
+2025-02-05 15:44:07 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:44:08 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:44:09 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:44:10 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:44:11 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:44:11 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:44:16 - Mematikan mode pesawat.
+2025-02-05 15:44:17 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:45:17 - Mengaktifkan tethering...
+2025-02-05 15:45:18 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:45:18 - IP forwarding diaktifkan.
+2025-02-05 15:45:18 - IPTables dikonfigurasi.
+2025-02-05 15:45:18 - Tethering diaktifkan.
+2025-02-05 15:45:20 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:45:21 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:45:22 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:45:23 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:45:24 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:45:24 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:45:29 - Mematikan mode pesawat.
+2025-02-05 15:45:30 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:46:30 - Mengaktifkan tethering...
+2025-02-05 15:46:31 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:46:31 - IP forwarding diaktifkan.
+2025-02-05 15:46:31 - IPTables dikonfigurasi.
+2025-02-05 15:46:31 - Tethering diaktifkan.
+2025-02-05 15:46:32 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:46:34 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:46:35 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:46:36 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:46:37 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:46:37 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:46:42 - Mematikan mode pesawat.
+2025-02-05 15:46:43 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:47:43 - Mengaktifkan tethering...
+2025-02-05 15:47:44 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:47:44 - IP forwarding diaktifkan.
+2025-02-05 15:47:44 - IPTables dikonfigurasi.
+2025-02-05 15:47:44 - Tethering diaktifkan.
+2025-02-05 15:47:45 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:47:46 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:47:47 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:47:48 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:47:49 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:47:49 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:47:55 - Mematikan mode pesawat.
+2025-02-05 15:47:55 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:48:55 - Mengaktifkan tethering...
+2025-02-05 15:48:56 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:48:56 - IP forwarding diaktifkan.
+2025-02-05 15:48:57 - IPTables dikonfigurasi.
+2025-02-05 15:48:57 - Tethering diaktifkan.
+2025-02-05 15:48:58 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:48:59 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:49:00 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:49:01 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:49:02 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:49:02 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:49:08 - Mematikan mode pesawat.
+2025-02-05 15:49:08 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:50:08 - Mengaktifkan tethering...
+2025-02-05 15:50:09 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:50:09 - IP forwarding diaktifkan.
+2025-02-05 15:50:09 - IPTables dikonfigurasi.
+2025-02-05 15:50:09 - Tethering diaktifkan.
+2025-02-05 15:50:10 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:50:11 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:50:12 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:50:13 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:50:14 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:50:14 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:50:20 - Mematikan mode pesawat.
+2025-02-05 15:50:20 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:51:20 - Mengaktifkan tethering...
+2025-02-05 15:51:21 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:51:21 - IP forwarding diaktifkan.
+2025-02-05 15:51:21 - IPTables dikonfigurasi.
+2025-02-05 15:51:21 - Tethering diaktifkan.
+2025-02-05 15:51:23 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:51:24 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:51:25 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:51:26 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:51:27 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:51:27 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:51:33 - Mematikan mode pesawat.
+2025-02-05 15:51:33 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:52:33 - Mengaktifkan tethering...
+2025-02-05 15:52:34 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:52:34 - IP forwarding diaktifkan.
+2025-02-05 15:52:34 - IPTables dikonfigurasi.
+2025-02-05 15:52:34 - Tethering diaktifkan.
+2025-02-05 15:52:35 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:52:36 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:52:37 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:52:38 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:52:39 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:52:39 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:52:45 - Mematikan mode pesawat.
+2025-02-05 15:52:45 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:53:45 - Mengaktifkan tethering...
+2025-02-05 15:53:46 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:53:46 - IP forwarding diaktifkan.
+2025-02-05 15:53:47 - IPTables dikonfigurasi.
+2025-02-05 15:53:47 - Tethering diaktifkan.
+2025-02-05 15:53:48 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:53:49 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:53:50 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:53:51 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:53:52 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:53:52 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:53:57 - Mematikan mode pesawat.
+2025-02-05 15:53:58 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:54:58 - Mengaktifkan tethering...
+2025-02-05 15:54:59 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:54:59 - IP forwarding diaktifkan.
+2025-02-05 15:54:59 - IPTables dikonfigurasi.
+2025-02-05 15:54:59 - Tethering diaktifkan.
+2025-02-05 15:55:00 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:55:01 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:55:02 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:55:03 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:55:04 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:55:04 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:55:10 - Mematikan mode pesawat.
+2025-02-05 15:55:10 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:56:10 - Mengaktifkan tethering...
+2025-02-05 15:56:11 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:56:11 - IP forwarding diaktifkan.
+2025-02-05 15:56:11 - IPTables dikonfigurasi.
+2025-02-05 15:56:11 - Tethering diaktifkan.
+2025-02-05 15:56:12 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:56:13 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:56:14 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:56:16 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:56:17 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:56:17 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:56:22 - Mematikan mode pesawat.
+2025-02-05 15:56:22 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:57:22 - Mengaktifkan tethering...
+2025-02-05 15:57:23 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:57:23 - IP forwarding diaktifkan.
+2025-02-05 15:57:24 - IPTables dikonfigurasi.
+2025-02-05 15:57:24 - Tethering diaktifkan.
+2025-02-05 15:57:25 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:57:26 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:57:27 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:57:28 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:57:29 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:57:29 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:57:35 - Mematikan mode pesawat.
+2025-02-05 15:57:35 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:58:35 - Mengaktifkan tethering...
+2025-02-05 15:58:36 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 15:58:36 - IP forwarding diaktifkan.
+2025-02-05 15:58:36 - IPTables dikonfigurasi.
+2025-02-05 15:58:36 - Tethering diaktifkan.
+2025-02-05 15:58:38 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:58:39 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:58:40 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:58:41 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:58:42 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 15:58:42 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 15:58:47 - Mematikan mode pesawat.
+2025-02-05 15:58:48 - Menunggu 60 detik agar data aktif.
+2025-02-05 15:59:48 - Mengaktifkan tethering...
+2025-02-05 16:00:03 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 16:00:03 - IP forwarding diaktifkan.
+2025-02-05 16:00:03 - IPTables dikonfigurasi.
+2025-02-05 16:00:03 - Tethering diaktifkan.
+2025-02-05 16:00:04 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:00:05 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:00:06 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:00:07 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:00:08 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:00:08 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 16:00:17 - Mematikan mode pesawat.
+2025-02-05 16:00:24 - Menunggu 60 detik agar data aktif.
+2025-02-05 16:01:18 - Mengaktifkan tethering...
+2025-02-05 16:01:22 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 16:01:22 - IP forwarding diaktifkan.
+2025-02-05 16:01:22 - IPTables dikonfigurasi.
+2025-02-05 16:01:22 - Tethering diaktifkan.
+2025-02-05 16:01:23 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:01:24 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:01:25 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:01:26 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:01:27 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:01:28 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 16:01:35 - Mematikan mode pesawat.
+2025-02-05 16:01:36 - Menunggu 60 detik agar data aktif.
+2025-02-05 16:02:43 - Mengaktifkan tethering...
+2025-02-05 16:02:44 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 16:02:44 - IP forwarding diaktifkan.
+2025-02-05 16:02:44 - IPTables dikonfigurasi.
+2025-02-05 16:02:44 - Tethering diaktifkan.
+2025-02-05 16:02:45 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:02:46 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:02:47 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:02:48 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:02:49 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:02:49 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 16:02:54 - Mematikan mode pesawat.
+2025-02-05 16:02:55 - Menunggu 60 detik agar data aktif.
+2025-02-05 16:03:55 - Mengaktifkan tethering...
+2025-02-05 16:03:56 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 16:03:56 - IP forwarding diaktifkan.
+2025-02-05 16:03:56 - IPTables dikonfigurasi.
+2025-02-05 16:03:56 - Tethering diaktifkan.
+2025-02-05 16:03:57 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:03:58 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:03:59 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:04:00 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:04:01 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:04:01 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 16:04:07 - Mematikan mode pesawat.
+2025-02-05 16:04:07 - Menunggu 60 detik agar data aktif.
+2025-02-05 16:05:07 - Mengaktifkan tethering...
+2025-02-05 16:05:08 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 16:05:08 - IP forwarding diaktifkan.
+2025-02-05 16:05:08 - IPTables dikonfigurasi.
+2025-02-05 16:05:08 - Tethering diaktifkan.
+2025-02-05 16:05:09 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:05:10 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:05:11 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:05:12 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:05:14 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:05:14 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 16:05:19 - Mematikan mode pesawat.
+2025-02-05 16:05:19 - Menunggu 60 detik agar data aktif.
+2025-02-05 16:06:19 - Mengaktifkan tethering...
+2025-02-05 16:06:20 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 16:06:20 - IP forwarding diaktifkan.
+2025-02-05 16:06:21 - IPTables dikonfigurasi.
+2025-02-05 16:06:21 - Tethering diaktifkan.
+2025-02-05 16:06:22 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:06:23 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:06:24 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:06:25 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:06:26 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:06:26 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 16:06:31 - Mematikan mode pesawat.
+2025-02-05 16:06:32 - Menunggu 60 detik agar data aktif.
+2025-02-05 16:07:32 - Mengaktifkan tethering...
+2025-02-05 16:07:33 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 16:07:33 - IP forwarding diaktifkan.
+2025-02-05 16:07:33 - IPTables dikonfigurasi.
+2025-02-05 16:07:33 - Tethering diaktifkan.
+2025-02-05 16:07:34 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:07:35 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:07:36 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:07:37 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:07:38 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:07:38 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 16:07:44 - Mematikan mode pesawat.
+2025-02-05 16:07:44 - Menunggu 60 detik agar data aktif.
+2025-02-05 16:08:44 - Mengaktifkan tethering...
+2025-02-05 16:08:45 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 16:08:45 - IP forwarding diaktifkan.
+2025-02-05 16:08:45 - IPTables dikonfigurasi.
+2025-02-05 16:08:45 - Tethering diaktifkan.
+2025-02-05 16:08:47 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:08:48 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:08:49 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:08:50 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:08:51 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:08:51 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 16:08:56 - Mematikan mode pesawat.
+2025-02-05 16:08:57 - Menunggu 60 detik agar data aktif.
+2025-02-05 16:09:57 - Mengaktifkan tethering...
+2025-02-05 16:09:58 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 16:09:58 - IP forwarding diaktifkan.
+2025-02-05 16:09:58 - IPTables dikonfigurasi.
+2025-02-05 16:09:58 - Tethering diaktifkan.
+2025-02-05 16:10:00 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:10:01 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:10:02 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:10:03 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:10:04 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:10:04 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 16:10:09 - Mematikan mode pesawat.
+2025-02-05 16:10:10 - Menunggu 60 detik agar data aktif.
+2025-02-05 16:11:10 - Mengaktifkan tethering...
+2025-02-05 16:11:11 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 16:11:11 - IP forwarding diaktifkan.
+2025-02-05 16:11:11 - IPTables dikonfigurasi.
+2025-02-05 16:11:11 - Tethering diaktifkan.
+2025-02-05 16:11:12 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:11:13 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:11:15 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:11:16 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:11:17 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:11:17 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 16:11:22 - Mematikan mode pesawat.
+2025-02-05 16:11:22 - Menunggu 60 detik agar data aktif.
+2025-02-05 16:12:22 - Mengaktifkan tethering...
+2025-02-05 16:12:23 - Tethering USB diaktifkan menggunakan perintah svc.
+2025-02-05 16:12:24 - IP forwarding diaktifkan.
+2025-02-05 16:12:24 - IPTables dikonfigurasi.
+2025-02-05 16:12:24 - Tethering diaktifkan.
+2025-02-05 16:12:25 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:12:26 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:12:27 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:12:28 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:12:29 - Host quiz.int.vidio.com] tidak dapat dijangkau.
+2025-02-05 16:12:29 - Koneksi gagal sebanyak 5 kali, mengaktifkan mode pesawat.
+2025-02-05 16:12:35 - Mematikan mode pesawat.
+2025-02-05 16:12:36 - Menunggu 60 detik agar data aktif.
