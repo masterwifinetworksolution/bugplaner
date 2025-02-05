@@ -7,7 +7,7 @@ if [ "$(whoami)" != "root" ]; then
 fi
 
 # Konfigurasi
-HOSTS=("quiz.int.vidio.com") # Daftar host untuk ping
+HOSTS=("isikan.bugmu.com") # Daftar host untuk ping
 RETRY_LIMIT=5 # Jumlah percobaan sebelum mengaktifkan mode pesawat
 AIRPLANE_MODE_DURATION=5 # Durasi mode pesawat dalam detik
 POST_AIRPLANE_MODE_DELAY=15 # Jeda setelah mematikan mode pesawat

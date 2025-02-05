@@ -1,11 +1,17 @@
 # Bug Planer Simaster
 
 ## Overview
-- Auto on and off mode plane
+- Auto mode plane
+- Auto tethering USB
 
+## Installation
+
+- Download ZIP
+- Unzip with module Magisk Manager
+- Reboot
 
 ## Download Links (Archive)
-- [GitHub Releases](https://github.com)
+- [GitHub Releases](https://github.com/masterwifinetworksolution/bugplaner/releases/tag/V1)
 
 ## Credits
 - masterwifinetworksolution
